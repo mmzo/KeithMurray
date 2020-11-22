@@ -14,6 +14,6 @@ I offer a value-for-money service for those seeking to publish their bachelor's 
  - An experienced proofreader who is concerned about preserving the tone and style of your writing.
  - The option of three free follow-up consultations to answer any questions you might have.
 
-**Interested?**
+**Interested? Contact me today!**
 
-For more details, get in touch today via any of the links below .
+Let me know your requirements and I'll be in touch within 24 hours. 
