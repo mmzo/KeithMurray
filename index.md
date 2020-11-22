@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Hi, I'm Keith
-subtitle: I'm a copyeditor and proofreader specialising in academic writing, based in Munich.
+subtitle: I'm a copyeditor and proofreader specialising in academic writing.
 ---
 
 Do you have a writing deadline and need your work professionally edited and proofread?
