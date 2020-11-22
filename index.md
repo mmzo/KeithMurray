@@ -1,16 +1,19 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Hi, I'm Keith
+subtitle: I'm a copyeditor and proofreader specialising in academic writing, based in Munich.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Do you have a writing deadline and need your work professionally edited and proofread?
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I offer a value-for-money service for those seeking to publish their bachelor's or master's thesis, dissertation, or journal submission.
 
-What else do you need?
+**By choosing my service, you can expect the following:**
 
-### My story
+ - Quick, cost-effective, professional editing/proofreading based on whatever style guide you are working with.
+ - An experienced proofreader who is concerned about preserving the tone and style of your work.
+ - The option of three free follow-up consultations to answer any questions you might have.
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+**Interested?**
+
+Get in touch today via any of the links below to arrange an estimate for your work.
