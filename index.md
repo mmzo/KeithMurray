@@ -11,9 +11,9 @@ I offer a value-for-money service for those seeking to publish their bachelor's 
 **By choosing my service, you can expect the following:**
 
  - Quick, cost-effective, professional editing/proofreading based on whatever style guide you are working with.
- - An experienced proofreader who is concerned about preserving the tone and style of your work.
+ - An experienced proofreader who is concerned about preserving the tone and style of your writing.
  - The option of three free follow-up consultations to answer any questions you might have.
 
 **Interested?**
 
-Get in touch today via any of the links below to arrange an estimate for your work.
+For more details, get in touch today via any of the links below .
