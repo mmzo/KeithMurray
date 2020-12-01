@@ -4,9 +4,9 @@ title: How does it work?
 subtitle: Your guide to the academic editing/proofreading process
 ---
 
-##There are three basic steps to getting your work professionally proofread or edited
+## There are three basic steps to getting your work professionally proofread or edited
 
-###Step 1: Decide what level of editing or proofreading you require
+### Step 1: Decide what level of editing or proofreading you require
 
 **Light edit or proofread / The final touch**
 Do you feel that your text is fine as it is and simply need someone to lightly go over your text, checking for formatting-focussed things like missing commas, incorrect punctuation, and spelling errors? Then a light copyedit or simple proofread is what you are looking for! This is usually a faster process, as I don't focus too much attention on resolving syntax errors or issues of style or consistency. Rather, I make sure the nuts and bolts of your writing are solid and screwed in tight! As a result, this option is perfect for confident or experienced writers, or those on a tight deadline.
@@ -20,7 +20,7 @@ Perhaps you find that you are spending a lot of time google translating large ch
 **Unsure?**
 If you are unsure what level you need, then no problem! Send me a sample of your writing (step 2) and I can give you feedback .
 
-###Step 2: Select a sample
+### Step 2: Select a sample
 
 **Choosing the sample**
 
@@ -29,17 +29,17 @@ Everyone's writing is different. As such, to give you an accurate estimate of th
 **What do I do with the sample?**
 After I receive the sample, with your specific requirements in mind, I work through it for one hour, making the required alterations and adding comments where things are not clear. After the hour is up, I send back the edited document for you to evaluate and state my estimate for the entire project, based on your requirements.
 
-###Step 3: Choose an option
+### Step 3: Choose an option
 
 **It's your choice**
 
 Once you have received the edited document it's your turn to evaluate my work. At this point I am available for any questions you might have. If my treatment of your writing suits your needs, then we are ready to get to work. Let's do this!
 
-###The Process
+### The Process
 
 While we are working on your writing you can contact me any time. If you prefer to talk face to face I offer three free face-to-face consultations via Skype or Zoom. If after the edit you have specific questions regarding sentences or paragraphs, no problem! I'll take a look at them too! My focus is to make sure you are satisfied with the finished product.
 
-##Sounds good? Let me know how I can help. Contact me today!
+## Sounds good? Let me know how I can help. Contact me today!
 
 
 
