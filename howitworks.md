@@ -54,7 +54,7 @@ Once you have received the edited document it's your turn to evaluate my work. A
 
 ### The Process
 
-While we are working on your writing you can contact me any time. If you prefer to talk face to face I offer three free face-to-face consultations via Skype or Zoom. If after the edit you have specific questions regarding sentences or paragraphs, no problem! I'll take a look at them too! My focus is to make sure you are satisfied with the finished product.
+While we are working on your writing you can contact me any time. If you prefer to talk in person I offer three free face-to-face consultations via Skype or Zoom. If after the edit you have specific questions regarding sentences or paragraphs, no problem! I'll take a look at them too! My focus is to make sure you are satisfied with the finished product.
 
 ## Sounds good? Let me know how I can help. Contact me today!
 
