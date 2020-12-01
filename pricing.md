@@ -3,6 +3,7 @@ layout: page
 title: Standard rates
 ---
 
+
 ### Light Edit / Proofread 	
 
 6-8 pages per hour
