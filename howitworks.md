@@ -7,7 +7,7 @@ subtitle: Your guide to the academic editing/proofreading process
 ## There are three basic steps to getting your work professionally proofread or edited
 <br/>
 ### Step 1: Decide what level of editing or proofreading you require
-<br/>
+
 #### Light edit or proofread
 
 You feel that your text is fine as it is and simply need someone to lightly check for formatting errors, such as missing commas, incorrect punctuation, and spelling. For you, a light copyedit or simple proofread is what you are looking for! 
