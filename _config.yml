@@ -15,6 +15,7 @@ author: Keith Murray
 
 navbar-links:
   Blog: "blog"
+  Guide: "howitworks"
   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
