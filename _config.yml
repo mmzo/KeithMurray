@@ -14,7 +14,7 @@ author: Keith Murray
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Blog: "blog"
+#   Blog: "blog"
   Guide: "howitworks"
   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
