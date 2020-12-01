@@ -7,7 +7,6 @@ subtitle: Your guide to the academic editing/proofreading process
 ## There are three basic steps to getting your work professionally proofread or edited
 <br/>
 ### Step 1: Decide what level of editing or proofreading you require
-
 <br/>
 #### Light edit or proofread
 
