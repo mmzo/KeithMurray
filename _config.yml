@@ -16,9 +16,10 @@ author: Keith Murray
 navbar-links:
 #   Blog: "blog"
   Guide: "howitworks"
+  Pricing: "pricing"
   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+#     - Learn markdown: "https://www.markdowntutorial.com/"
 #   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
