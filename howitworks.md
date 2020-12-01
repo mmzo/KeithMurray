@@ -8,6 +8,7 @@ subtitle: Your guide to the academic editing/proofreading process
 
 ### Step 1: Decide what level of editing or proofreading you require
 
+
 #### **Light edit or proofread / The final touch**
 
 You feel that your text is fine as it is and simply need someone to lightly check for formatting errors, such as missing commas, incorrect punctuation, and spelling. For you, a light copyedit or simple proofread is what you are looking for! 
