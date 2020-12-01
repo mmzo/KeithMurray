@@ -1,6 +1,6 @@
 ---
 layout:page
-title: Standard rates
+title:Standard rates
 ---
 
 ### Light Edit / Proofread 	
